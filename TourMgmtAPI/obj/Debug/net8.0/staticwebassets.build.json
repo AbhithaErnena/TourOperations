@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "POKMTvV2cMXLBW3QGCuM4lraK1PZIkGfnxyMYxTu2SA=",
+  "Source": "TourMgmtAPI",
+  "BasePath": "_content/TourMgmtAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
